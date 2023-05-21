@@ -9,6 +9,8 @@ function names(text, charToChange, targetText) {
         
     }
     console.log(newString === targetText ? 'Matched' : 'Not Matched');
+    console.log(newString === targetText ? 'Matched' : 'Not Matched');
+    console.log(newString === targetText ? 'Matched' : 'Not Matched');
 }
 
 names('Str_ng', 'I',
